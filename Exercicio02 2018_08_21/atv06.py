@@ -18,7 +18,7 @@ while(entrada != ''):
         print("Nota 2")
         nota2 = float(input())
         media = (nota1 + nota2) / 2
-        dados[nome_aluno] = media
+        dados[nome_aluno] = [nota1, nota2]
 
 entrada = None
 while(entrada != ''):
@@ -26,4 +26,4 @@ while(entrada != ''):
     nome_aluno = input()
     entrada = nome_aluno
     if nome_aluno != '':
-        print(dados[nome_aluno])
+        print((dados[nome_aluno][0] + dados[nome_aluno][1]) / 2)
