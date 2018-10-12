@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="62964496-0b5b-45cf-abb9-058eef21a775" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/-Exercicio_Aula/Aula06/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/-Exercicio_Aula/Aula06/ex01.py" afterDir="false" />
@@ -11,6 +12,82 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="62964496-0b5b-45cf-abb9-058eef21a775" name="Default Changelist" comment="last commit primary exer">
+      <change afterPath="$PROJECT_DIR$/Exercicio06 2018_10_09/atv01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio06 2018_10_09/atv02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio06 2018_10_09/atv03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio06 2018_10_09/atv04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio06 2018_10_09/atv05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio06 2018_10_09/atv06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio06 2018_10_09/atv07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio06 2018_10_09/atv08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio06 2018_10_09/atv09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio06 2018_10_09/atv10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio01 2018_08_14/atv9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/atv01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/atv02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/atv03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/atv04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/atv05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/atv06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/atv07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/atv08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/atv09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/atv10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/ips.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/ipsvalidados.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/relatorio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02 2018_08_21/usuarios.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv13b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio03 2018_08_28/atv25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio04 2018_09_11/atv01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio04 2018_09_11/atv02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio04 2018_09_11/atv03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio04 2018_09_11/atv04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio04 2018_09_11/atv05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio04 2018_09_11/atv06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios05 2018_09_18/atv01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios05 2018_09_18/atv02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios05 2018_09_18/atv03.py" beforeDir="false" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +96,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/LingProg$atv11.coverage" NAME="atv11 Coverage Results" MODIFIED="1534629069672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
     <SUITE FILE_PATH="coverage/LingProg$ex02.coverage" NAME="ex02 Coverage Results" MODIFIED="1538529988711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/-Exercicio_Aula/Aula06" />
     <SUITE FILE_PATH="coverage/LingProg$atv01.coverage" NAME="atv01 Coverage Results" MODIFIED="1535505265277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio02 2018_08_21" />
@@ -43,6 +121,42 @@
     <SUITE FILE_PATH="coverage/LingProg$atv7.coverage" NAME="atv7 Coverage Results" MODIFIED="1534622671586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
     <SUITE FILE_PATH="coverage/LingProg$atv04.coverage" NAME="atv04 Coverage Results" MODIFIED="1535906035165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
     <SUITE FILE_PATH="coverage/LingProg$atv3.coverage" NAME="atv3 Coverage Results" MODIFIED="1534371013473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
+=======
+    <SUITE FILE_PATH="coverage/LingProg$atv01.coverage" NAME="atv01 Coverage Results" MODIFIED="1537917250672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios05 2018_09_18" />
+    <SUITE FILE_PATH="coverage/LingProg$atv04.coverage" NAME="atv04 Coverage Results" MODIFIED="1535414589774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio02 2018_08_21" />
+    <SUITE FILE_PATH="coverage/LingProg$atv13b.coverage" NAME="atv13b Coverage Results" MODIFIED="1535925308212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$quadrado.coverage" NAME="quadrado Coverage Results" MODIFIED="1534371143197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
+    <SUITE FILE_PATH="coverage/LingProg$atv13.coverage" NAME="atv13 Coverage Results" MODIFIED="1535924714627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv10.coverage" NAME="atv10 Coverage Results" MODIFIED="1535916385943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv16.coverage" NAME="atv16 Coverage Results" MODIFIED="1535926316044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv15__1_.coverage" NAME="atv15 (1) Coverage Results" MODIFIED="1535926019661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv06.coverage" NAME="atv06 Coverage Results" MODIFIED="1535414172492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio02 2018_08_21" />
+    <SUITE FILE_PATH="coverage/LingProg$atv18.coverage" NAME="atv18 Coverage Results" MODIFIED="1535926536574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv03.coverage" NAME="atv03 Coverage Results" MODIFIED="1537923860521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios05 2018_09_18" />
+    <SUITE FILE_PATH="coverage/LingProg$atv12.coverage" NAME="atv12 Coverage Results" MODIFIED="1535924018167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv7.coverage" NAME="atv7 Coverage Results" MODIFIED="1534622671586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
+    <SUITE FILE_PATH="coverage/LingProg$atv21.coverage" NAME="atv21 Coverage Results" MODIFIED="1535927463152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv09.coverage" NAME="atv09 Coverage Results" MODIFIED="1535494796894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio02 2018_08_21" />
+    <SUITE FILE_PATH="coverage/LingProg$atv15.coverage" NAME="atv15 Coverage Results" MODIFIED="1535925896994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv24.coverage" NAME="atv24 Coverage Results" MODIFIED="1535929527377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv4.coverage" NAME="atv4 Coverage Results" MODIFIED="1534372239869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
+    <SUITE FILE_PATH="coverage/LingProg$atv3.coverage" NAME="atv3 Coverage Results" MODIFIED="1534371013473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
+    <SUITE FILE_PATH="coverage/LingProg$atv17.coverage" NAME="atv17 Coverage Results" MODIFIED="1535926285832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$Circulo.coverage" NAME="Circulo Coverage Results" MODIFIED="1534370558230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
+    <SUITE FILE_PATH="coverage/LingProg$atv23.coverage" NAME="atv23 Coverage Results" MODIFIED="1535929383739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv9.coverage" NAME="atv9 Coverage Results" MODIFIED="1534627493534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
+    <SUITE FILE_PATH="coverage/LingProg$atv14.coverage" NAME="atv14 Coverage Results" MODIFIED="1535925619351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv08.coverage" NAME="atv08 Coverage Results" MODIFIED="1535471563660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio02 2018_08_21" />
+    <SUITE FILE_PATH="coverage/LingProg$atv6.coverage" NAME="atv6 Coverage Results" MODIFIED="1534621094115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
+    <SUITE FILE_PATH="coverage/LingProg$atv22.coverage" NAME="atv22 Coverage Results" MODIFIED="1535929100375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv5.coverage" NAME="atv5 Coverage Results" MODIFIED="1534460621663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
+    <SUITE FILE_PATH="coverage/LingProg$atv02.coverage" NAME="atv02 Coverage Results" MODIFIED="1537923667239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicios05 2018_09_18" />
+    <SUITE FILE_PATH="coverage/LingProg$atv19.coverage" NAME="atv19 Coverage Results" MODIFIED="1535926707165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv05.coverage" NAME="atv05 Coverage Results" MODIFIED="1535325223355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio02 2018_08_21" />
+    <SUITE FILE_PATH="coverage/LingProg$atv8.coverage" NAME="atv8 Coverage Results" MODIFIED="1534625807451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio01" />
+    <SUITE FILE_PATH="coverage/LingProg$atv20.coverage" NAME="atv20 Coverage Results" MODIFIED="1535927215237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+    <SUITE FILE_PATH="coverage/LingProg$atv11.coverage" NAME="atv11 Coverage Results" MODIFIED="1535916989338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="131574887">
@@ -83,12 +197,17 @@
     <session id="16173909">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.19" value="1" />
+=======
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="2" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
           <entry key="project.open.time.202" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.42" value="1" />
@@ -96,31 +215,51 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.9" value="1" />
+<<<<<<< HEAD
           <entry key="project.opened" value="13" />
+=======
+          <entry key="project.opened" value="9" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="py" value="51" />
+=======
+          <entry key="py" value="44" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
+<<<<<<< HEAD
           <entry key="Python" value="51" />
+=======
+          <entry key="Python" value="44" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="py" value="5485" />
+=======
+          <entry key="py" value="5205" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
           <entry key="txt" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="38" />
+<<<<<<< HEAD
           <entry key="Python" value="5485" />
+=======
+          <entry key="Python" value="5205" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -130,28 +269,51 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
+<<<<<<< HEAD
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="2" />
+=======
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="3" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="py" value="4" />
+=======
+          <entry key="ipynb" value="1" />
+          <entry key="py" value="15" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="Python" value="4" />
+=======
+          <entry key="IPNB" value="1" />
+          <entry key="Python" value="15" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="py" value="1484" />
+=======
+          <entry key="py" value="1503" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="Python" value="1484" />
+=======
+          <entry key="Python" value="1503" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
         </counts>
       </usages-collector>
     </session>
@@ -162,6 +324,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="Jupyter Notebook" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
         <option value="Python Script" />
       </list>
     </option>
@@ -172,6 +338,10 @@
       <find>open</find>
       <find>numero</find>
       <find>l3</find>
+<<<<<<< HEAD
+=======
+      <find>Dia</find>
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
     </findStrings>
     <replaceStrings>
       <replace>dia</replace>
@@ -186,6 +356,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Exercicio01/quadrado.py" />
         <option value="$PROJECT_DIR$/Exercicio01/Circulo.py" />
         <option value="$PROJECT_DIR$/Exercicio01/atv3.py" />
@@ -200,6 +371,8 @@
         <option value="$PROJECT_DIR$/Exercicio01/atv10.py" />
         <option value="$PROJECT_DIR$/Exercicio01/atv11.py" />
         <option value="$PROJECT_DIR$/Exercicio01/atv12.py" />
+=======
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
         <option value="$PROJECT_DIR$/Exercicio02 2018_08_21/atv02.py" />
         <option value="$PROJECT_DIR$/Exercicio02 2018_08_21/atv03.py" />
         <option value="$PROJECT_DIR$/Exercicio02 2018_08_21/atv04.py" />
@@ -214,15 +387,53 @@
         <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv01.py" />
         <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv02.py" />
         <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv03.py" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv04.py" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
         <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv05.py" />
         <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv06.py" />
         <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv07.py" />
         <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv08.py" />
         <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv09.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv04.py" />
         <option value="$PROJECT_DIR$/-Exercicio_Aula/Aula06/ex01.py" />
         <option value="$PROJECT_DIR$/-Exercicio_Aula/Aula06/ex02.py" />
         <option value="$PROJECT_DIR$/-Exercicio_Aula/Aula06/ex03.py" />
+=======
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv10.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv11.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv12.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv13.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv13b.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv14.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv15.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv17.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv16.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv18.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv19.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv20.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv21.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv22.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv23.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv24.py" />
+        <option value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv25.py" />
+        <option value="$PROJECT_DIR$/Exercicios05 2018_09_18/atv01.py" />
+        <option value="$PROJECT_DIR$/Exercicios05 2018_09_18/atv02.py" />
+        <option value="$PROJECT_DIR$/Exercicios05 2018_09_18/atv03.py" />
+        <option value="$PROJECT_DIR$/Exercicio06 2018_10_09/atv01.py" />
+        <option value="$PROJECT_DIR$/Exercicio06 2018_10_09/atv02.py" />
+        <option value="$PROJECT_DIR$/Exercicio06 2018_10_09/atv03.py" />
+        <option value="$PROJECT_DIR$/Exercicio06 2018_10_09/atv04.py" />
+        <option value="$PROJECT_DIR$/Exercicio06 2018_10_09/atv05.py" />
+        <option value="$PROJECT_DIR$/Exercicio06 2018_10_09/test.ipynb" />
+        <option value="$PROJECT_DIR$/Exercicio06 2018_10_09/atv06.py" />
+        <option value="$PROJECT_DIR$/Exercicio06 2018_10_09/atv07.py" />
+        <option value="$PROJECT_DIR$/Exercicio06 2018_10_09/atv08.py" />
+        <option value="$PROJECT_DIR$/Exercicio06 2018_10_09/atv09.py" />
+        <option value="$PROJECT_DIR$/Exercicio06 2018_10_09/atv10.py" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       </list>
     </option>
   </component>
@@ -253,11 +464,14 @@
               <item name="LingProg" type="b2602c69:ProjectViewProjectNode" />
               <item name="LingProg" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="LingProg" type="b2602c69:ProjectViewProjectNode" />
               <item name="LingProg" type="462c0819:PsiDirectoryNode" />
               <item name="-Exercicio_Aula" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
           </expand>
           <select />
         </subPane>
@@ -265,7 +479,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="GoToClass.toSaveIncludeLibraries" value="true" />
+=======
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="true" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToSymbol.includeLibraries" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="termina&#9;ACTION&#9;ActivateTerminalToolWindow" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -284,8 +506,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.ex03">
     <configuration name="atv04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.atv07">
+    <configuration name="atv01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <module name="LingProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,12 +520,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios05 2018_09_18" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv04.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios05 2018_09_18/atv01.py" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,7 +542,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="atv05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="atv02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <module name="LingProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,12 +554,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios05 2018_09_18" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv05.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios05 2018_09_18/atv02.py" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,7 +576,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="ex01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="atv03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <module name="LingProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,12 +588,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/-Exercicio_Aula/Aula06" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios05 2018_09_18" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/-Exercicio_Aula/Aula06/ex01.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios05 2018_09_18/atv03.py" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,7 +610,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="ex02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="atv07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <module name="LingProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -359,12 +622,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/-Exercicio_Aula/Aula06" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicio06 2018_10_09" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/-Exercicio_Aula/Aula06/ex02.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio06 2018_10_09/atv07.py" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,7 +644,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="ex03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="atv24" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <module name="LingProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,12 +656,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/-Exercicio_Aula/Aula06" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicio03 2018_08_28" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/-Exercicio_Aula/Aula06/ex03.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio03 2018_08_28/atv24.py" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,6 +679,7 @@
       <method v="2" />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Python.atv04" />
       <item itemvalue="Python.atv05" />
       <item itemvalue="Python.ex01" />
@@ -409,6 +693,21 @@
         <item itemvalue="Python.ex01" />
         <item itemvalue="Python.atv05" />
         <item itemvalue="Python.atv04" />
+=======
+      <item itemvalue="Python.atv24" />
+      <item itemvalue="Python.atv01" />
+      <item itemvalue="Python.atv02" />
+      <item itemvalue="Python.atv03" />
+      <item itemvalue="Python.atv07" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.atv07" />
+        <item itemvalue="Python.atv03" />
+        <item itemvalue="Python.atv02" />
+        <item itemvalue="Python.atv01" />
+        <item itemvalue="Python.atv24" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       </list>
     </recent_temporary>
   </component>
@@ -423,6 +722,7 @@
       <option name="presentableId" value="Default" />
       <updated>1534294178677</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="last commit primary exer">
       <created>1536103946627</created>
       <option name="number" value="00001" />
@@ -437,11 +737,23 @@
     <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23333333" />
+=======
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22121212" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.46515396" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24364723" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,13 +762,23 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32901135" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32901135" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32792208" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Database" order="4" />
+=======
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,6 +792,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="last commit primary exer" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Exercicio01/atv3.py" />
     <entry file="file://$PROJECT_DIR$/Exercicio01/atv4.py" />
     <entry file="file://$PROJECT_DIR$/Exercicio01/atv5.py" />
@@ -485,6 +808,8 @@
     <entry file="file://$PROJECT_DIR$/Exercicio01 2018_08_14/atv1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+=======
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
     <entry file="file://$PROJECT_DIR$/Exercicio02 2018_08_21/atv07.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -534,6 +859,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Exercicio02 2018_08_21/usuarios.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -548,6 +874,10 @@
         </state>
       </provider>
     </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/Exercicio02 2018_08_21/usuarios.txt" />
+    <entry file="file://$PROJECT_DIR$/Exercicio02 2018_08_21/atv09.py" />
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
     <entry file="file://$PROJECT_DIR$/Exercicio02 2018_08_21/atv01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
@@ -555,6 +885,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Exercicio02 2018_08_21/atv10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -658,5 +989,114 @@
     <entry file="file://$PROJECT_DIR$/Exercicios05 2018_09_18/atv03.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/Exercicio02 2018_08_21/atv10.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv01.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv02.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv03.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv04.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv05.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv06.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv07.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv08.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv09.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv10.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv11.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv13.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv12.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv13b.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv15.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv14.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv17.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv16.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv18.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv19.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv20.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv21.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv22.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv23.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv24.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio03 2018_08_28/atv25.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicios05 2018_09_18/atv03.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicios05 2018_09_18/atv02.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicios05 2018_09_18/atv01.py" />
+    <entry file="file://$PROJECT_DIR$/Exercicio06 2018_10_09/atv02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio06 2018_10_09/atv01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio06 2018_10_09/atv03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio06 2018_10_09/atv04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio06 2018_10_09/atv05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio06 2018_10_09/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio06 2018_10_09/atv07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio06 2018_10_09/atv06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio06 2018_10_09/atv09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio06 2018_10_09/atv10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicio06 2018_10_09/atv08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> cd9058dd086daaaf468f28fc99c0953feca00ab5
   </component>
 </project>
